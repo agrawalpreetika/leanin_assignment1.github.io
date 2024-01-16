@@ -194,11 +194,12 @@ nav .logo img:hover{
 }
 
 .header{
-    z-index: 3;
-    font-size:80px;
+    
+    font-size:90px;
     color:white;
     text-align: center;
     font-weight: bold;
+    margin-top:10px;
     padding:10px;
     text-shadow: 0 0 10px rgb(234, 245, 245);
 }
