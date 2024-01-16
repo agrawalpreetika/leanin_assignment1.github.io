@@ -1,12 +1,10 @@
 - 👋 Hi, I’m @agrawalpreetika
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
-<!---
-agrawalpreetika/agrawalpreetika is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- GITHUB LINK
+https://agrawalpreetika.github.io/leanin_assignment1.github.io/
+
+1) At home page there is a animation on the text when the website is opened (on home page)
+2) change og background color when mouse hovers over it
+3) on the home page there is a bubble animation also
+4) when the mouse hovers over the logo of the site which is placed on the navigation bar, it rotates(animation)
+5) on the next page , there is a animation on the heading "EDUCATION"
