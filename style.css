@@ -308,7 +308,7 @@ nav .logo img:hover{
 }
 
 .info>div:hover{
-    transform: scale(1.01);
+    transform: scale(1.03);
     border: 3px solid aqua;
 }
 
