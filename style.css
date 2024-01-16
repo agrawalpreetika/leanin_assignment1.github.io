@@ -401,10 +401,11 @@ button:hover{
     .info>div{
         flex :0 0 90%;
         max-width: 90%;
+        height:800px;
     }
 
     .info img{
-        height:75%;
+        height:70%;
     }
 
 }
