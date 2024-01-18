@@ -277,6 +277,7 @@ nav .logo img:hover{
     margin-top: 30px;
     /* align-items: center; */
     font-family: 'Caveat Brush', cursive;
+    font-size: 20px;
 }
 
 .info>div{
@@ -369,7 +370,7 @@ button:hover{
         font-size: 70px;
     }
     .content p{
-        font-size: 22px;
+        font-size: 24px;
     }
     .header{
         font-size:63px;
@@ -386,7 +387,7 @@ button:hover{
         line-height: 50px;
     }
     .content p{
-        font-size: 18px;
+        font-size: 20px;
     }
     .header{
         font-size: 49px;
