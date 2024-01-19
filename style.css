@@ -10,7 +10,7 @@
     /* background-image: linear-gradient(to bottom,rgba(4, 38, 74, 0.842),rgba(8, 51, 98, 0.679)),url(background.png); */
     background-image: linear-gradient(to bottom,#073b55bd 10% ,#073b5500),url(pngtree-underwater-plant-fish-cartoon-sea-water-advertising-background-picture-image_2249619.jpg);
     background-size: cover;
-    overflow: hidden;  
+    overflow: auto;  
 }
 
 nav{
