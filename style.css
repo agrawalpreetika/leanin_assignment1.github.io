@@ -428,6 +428,24 @@ button:hover{
     }
 
 }
+@media screen and (max-width:320px){
+    nav .logo{
+        font-size:20px;
+    }
+    nav li{
+        font-size:17px;
+    }
+    nav .logo img{
+        margin-right: 0px;
+    }
+    nav ul li{
+        margin-left:10px;
+        margin-right:10px;
+    }
+    .content h1{
+        font-size: 45px;
+    }
+}
 
 @media screen and (max-width:850px){
     .info>div{
